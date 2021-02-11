@@ -1,4 +1,4 @@
-package M12_SpringStarted.Nivell2;
+package configuration;
 
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;

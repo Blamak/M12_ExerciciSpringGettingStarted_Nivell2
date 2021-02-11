@@ -1,4 +1,4 @@
-package M12_SpringStarted.Nivell2;
+package configuration;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
