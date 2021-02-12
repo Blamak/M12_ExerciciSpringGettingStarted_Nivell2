@@ -1,5 +1,8 @@
 package nivell2.dto;
 
+import org.springframework.stereotype.Component;
+
+@Component
 public class KlingonResponseDto extends ResponseDto {
 	
 	 private String name;

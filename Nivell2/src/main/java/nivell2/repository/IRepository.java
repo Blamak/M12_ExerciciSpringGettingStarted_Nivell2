@@ -1,5 +1,9 @@
 package nivell2.repository;
 
-public class IRepository {
+import nivell2.dto.ResponseDto;
+
+public interface IRepository {
+	
+	 public ResponseDto getKlingon(String uuid);
 
 }
